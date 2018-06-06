@@ -1,0 +1,179 @@
+.version.sauce /* version checker */
+{
+	color: #0000F6;
+	background-color: #7F487F;
+}
+
+.html
+{
+	background: #000000 url("../images/skullz%204.jpg") no-repeat center center scroll;
+	background-size: cover;
+}
+
+#page
+{
+	z-index: 1;
+	width: 960px;
+	min-height: 438px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: transparent;
+	padding-bottom: 62px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#ppu768
+{
+	width: 0.01px;
+	margin-right: -10000px;
+	margin-top: 48px;
+	margin-left: -407px;
+}
+
+#u768
+{
+	z-index: 17;
+	height: 125px;
+	width: 125px;
+	vertical-align: top;
+	position: relative;
+	background: url("../images/u768.png") no-repeat 9px 9px;
+}
+
+#u768:hover
+{
+	background: url("../images/u768-r.png") no-repeat 0px 0px;
+}
+
+#slideshowu583
+{
+	z-index: 2;
+	width: 0.01px;
+	height: 281px;
+	margin-left: 36px;
+	margin-top: 15px;
+	position: relative;
+}
+
+#u584
+{
+	position: absolute;
+	width: 391px;
+	height: 281px;
+	background-color: transparent;
+}
+
+#u584popup
+{
+	z-index: 3;
+}
+
+#u585
+{
+	z-index: 4;
+	display: block;
+	vertical-align: top;
+	margin-bottom: -9px;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u636
+{
+	z-index: 6;
+	display: block;
+	vertical-align: top;
+	margin-bottom: -9px;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u670
+{
+	z-index: 8;
+	display: block;
+	vertical-align: top;
+	margin-bottom: -9px;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u684
+{
+	z-index: 10;
+	display: block;
+	vertical-align: top;
+	margin-bottom: -9px;
+	margin-right: -10000px;
+	position: relative;
+}
+
+.SSFirstButton,.SSPreviousButton,.SSNextButton,.SSLastButton,.SSSlideLink,.SSCloseButton /* slideshowFreeStyle */
+{
+	cursor: pointer;
+}
+
+.SSSlideLoading /* slideshowFreeStyle */
+{
+	background: url("../images/loading.gif") no-repeat center center;
+}
+
+#pu713
+{
+	width: 0.01px;
+	padding-bottom: 0px;
+	margin-right: -10000px;
+	margin-top: 57px;
+	margin-left: -286px;
+}
+
+#u713
+{
+	z-index: 14;
+	width: 183px;
+	background-color: transparent;
+	margin-left: 17px;
+	position: relative;
+}
+
+#u713_img
+{
+	padding-right: 1px;
+}
+
+#u651
+{
+	z-index: 12;
+	display: block;
+	vertical-align: top;
+	position: relative;
+}
+
+#u886
+{
+	z-index: 20;
+	height: 103px;
+	width: 103px;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 59px;
+	left: -52px;
+	background: url("../images/u886.png") no-repeat 9px 9px;
+}
+
+#u886:hover
+{
+	background: url("../images/u886-r.png") no-repeat 0px 0px;
+}
+
+body
+{
+	position: relative;
+	min-width: 960px;
+	padding-top: 36px;
+	padding-bottom: 1px;
+}
+

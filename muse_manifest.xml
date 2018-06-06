@@ -1,15 +1,36 @@
-<manifest alg="2" build="6" opt="false" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1528303590693">
+<manifest alg="2" build="6" opt="false" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1528319647857">
   <folder name="css">
     <file name="site_global.css" crc="426517801"/>
-    <file name="index.css" crc="4270535440" ref="index"/>
+    <file name="index.css" crc="250092253" ref="index"/>
+    <file name="sauce.css" crc="4135536767" ref="sauce"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="4021225061" ref="index"/>
-    <file name="museutils.js" crc="4136605575" ref="index"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="242197875" ref="index"/>
+    <file name="jquery-1.8.3.min.js" crc="4021225061" ref="index:sauce"/>
+    <file name="museutils.js" crc="4136605575" ref="index:sauce"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="242197875" ref="index:sauce"/>
+    <file name="webpro.js" crc="420478120" ref="sauce"/>
+    <file name="musewpslideshow.js" crc="480958572" ref="sauce"/>
+    <file name="jquery.museoverlay.js" crc="184401257" ref="sauce"/>
+    <file name="touchswipe.js" crc="60020316" ref="sauce"/>
   </folder>
   <folder name="images">
     <file name="skuls4.jpg" crc="4159235359" ref="index"/>
+    <file name="u892.png" crc="3913889439" ref="index"/>
+    <file name="u892-r.png" crc="108460813" ref="index"/>
+    <file name="skullz 4.jpg" crc="4020596819" ref="sauce"/>
+    <file name="u768.png" crc="4104612340" ref="sauce"/>
+    <file name="u768-r.png" crc="96619402" ref="sauce"/>
+    <file name="blank.gif" crc="4208392903" ref="sauce"/>
+    <file name="rubis-untitled-139-u585.png" crc="459725448" ref="sauce"/>
+    <file name="tumblr_p8iy6k1ewk1xpk2vho1_1280-u636.png" crc="4262883658" ref="sauce"/>
+    <file name="rubis-asdfasdfasdfs-u670.png" crc="3902467435" ref="sauce"/>
+    <file name="dariix-scratch-u684.png" crc="3981359356" ref="sauce"/>
+    <file name="loading.gif" crc="3815509949" ref="sauce"/>
+    <file name="discord-logo-wordmark-white.png" crc="4100131501" ref="sauce"/>
+    <file name="rubis4974-u651.png" crc="417176933" ref="sauce"/>
+    <file name="u886.png" crc="3766617576" ref="sauce"/>
+    <file name="u886-r.png" crc="4281257805" ref="sauce"/>
   </folder>
-  <file name="index.html" crc="61092145" mt="1528303577347" redirect="false"/>
+  <file name="index.html" crc="330301726" mt="1528319647311" redirect="true"/>
+  <file name="sauce.html" crc="4281453920" mt="1528319647200" redirect="true"/>
 </manifest>
