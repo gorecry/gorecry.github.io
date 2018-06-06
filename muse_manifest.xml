@@ -1,36 +1,44 @@
-<manifest alg="2" build="6" opt="false" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1528319647857">
+<manifest alg="2" build="6" opt="false" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1528329577878">
+  <folder name="assets">
+    <file name="borne-extinction.mp3" crc="4067664854" mt="1528319881000"/>
+  </folder>
   <folder name="css">
     <file name="site_global.css" crc="426517801"/>
-    <file name="index.css" crc="250092253" ref="index"/>
-    <file name="sauce.css" crc="4135536767" ref="sauce"/>
+    <file name="index.css" crc="3962647082" ref="index"/>
+    <file name="artisan.css" crc="3997975314" ref="artisan"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="4021225061" ref="index:sauce"/>
-    <file name="museutils.js" crc="4136605575" ref="index:sauce"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="242197875" ref="index:sauce"/>
-    <file name="webpro.js" crc="420478120" ref="sauce"/>
-    <file name="musewpslideshow.js" crc="480958572" ref="sauce"/>
-    <file name="jquery.museoverlay.js" crc="184401257" ref="sauce"/>
-    <file name="touchswipe.js" crc="60020316" ref="sauce"/>
+    <file name="jquery-1.8.3.min.js" crc="4021225061" ref="index:artisan"/>
+    <file name="museutils.js" crc="4136605575" ref="index:artisan"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="242197875" ref="index:artisan"/>
+    <file name="webpro.js" crc="420478120" ref="artisan"/>
+    <file name="musewpslideshow.js" crc="480958572" ref="artisan"/>
+    <file name="jquery.museoverlay.js" crc="184401257" ref="artisan"/>
+    <file name="touchswipe.js" crc="60020316" ref="artisan"/>
   </folder>
   <folder name="images">
     <file name="skuls4.jpg" crc="4159235359" ref="index"/>
-    <file name="u892.png" crc="3913889439" ref="index"/>
-    <file name="u892-r.png" crc="108460813" ref="index"/>
-    <file name="skullz 4.jpg" crc="4020596819" ref="sauce"/>
-    <file name="u768.png" crc="4104612340" ref="sauce"/>
-    <file name="u768-r.png" crc="96619402" ref="sauce"/>
-    <file name="blank.gif" crc="4208392903" ref="sauce"/>
-    <file name="rubis-untitled-139-u585.png" crc="459725448" ref="sauce"/>
-    <file name="tumblr_p8iy6k1ewk1xpk2vho1_1280-u636.png" crc="4262883658" ref="sauce"/>
-    <file name="rubis-asdfasdfasdfs-u670.png" crc="3902467435" ref="sauce"/>
-    <file name="dariix-scratch-u684.png" crc="3981359356" ref="sauce"/>
-    <file name="loading.gif" crc="3815509949" ref="sauce"/>
-    <file name="discord-logo-wordmark-white.png" crc="4100131501" ref="sauce"/>
-    <file name="rubis4974-u651.png" crc="417176933" ref="sauce"/>
-    <file name="u886.png" crc="3766617576" ref="sauce"/>
-    <file name="u886-r.png" crc="4281257805" ref="sauce"/>
+    <file name="blank.gif" crc="4208392903" ref="artisan"/>
+    <file name="loading.gif" crc="3815509949" ref="artisan"/>
+    <file name="discord-logo-wordmark-white.png" crc="532690211" ref="artisan"/>
+    <file name="u1147.png" crc="122293794" ref="index"/>
+    <file name="u1147-r.png" crc="4200234306" ref="index"/>
+    <file name="tumblr_p8iypszx1m1xpk2vho1_1280.jpg" crc="165671977" ref="artisan"/>
+    <file name="tumblr_p8iy6k1ewk1xpk2vho1_1280-crop-u907.jpg" crc="211628426" ref="artisan"/>
+    <file name="dariix-scratch-crop-u1033.jpg" crc="4181324497" ref="artisan"/>
+    <file name="boolean-addiction-headshot.jpg" crc="485897203" ref="artisan"/>
+    <file name="rubis-unnamed-crop-u1480.jpg" crc="4136564984" ref="artisan"/>
+    <file name="rubis-asdfasdfasdfs-crop-u1498.jpg" crc="311618324" ref="artisan"/>
+    <file name="dsfl0ak.png" crc="366594867" ref="artisan"/>
+    <file name="kisspng-picture-frames-gothic-architecture-gothic-revival-black-frame-5ac212eea05d149325860815226682706569.png" crc="347491168" ref="artisan"/>
+    <file name="rubis4974.png" crc="4167211507" ref="artisan"/>
+    <file name="u1392.png" crc="458825250" ref="artisan"/>
+    <file name="u1392-r.png" crc="4210275265" ref="artisan"/>
+    <file name="u1347.png" crc="4008262088" ref="artisan"/>
+    <file name="u1347-r.png" crc="3995796346" ref="artisan"/>
+    <file name="u1177.png" crc="3799901095" ref="artisan"/>
+    <file name="u1177-r.png" crc="4265845639" ref="artisan"/>
   </folder>
-  <file name="index.html" crc="330301726" mt="1528319647311" redirect="true"/>
-  <file name="sauce.html" crc="4281453920" mt="1528319647200" redirect="true"/>
+  <file name="index.html" crc="116347445" mt="1528329577031" redirect="true"/>
+  <file name="artisan.html" crc="4248854051" mt="1528329577464" redirect="true"/>
 </manifest>
