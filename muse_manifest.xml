@@ -1,13 +1,13 @@
-<manifest alg="2" build="6" opt="false" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1528332272984">
+<manifest alg="2" build="6" opt="false" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1528332534391">
   <folder name="assets">
     <file name="borne-extinction.mp3" crc="4067664854" mt="1528319881000"/>
     <file name="bass-business_6.mp3" crc="359356522" mt="1527872502000"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="426517801"/>
-    <file name="index.css" crc="3783506404" ref="index"/>
-    <file name="artisan.css" crc="527426466" ref="artisan"/>
-    <file name="master_a-master.css" crc="4099916061" ref="index:artisan"/>
+    <file name="index.css" crc="427855013" ref="index"/>
+    <file name="artisan.css" crc="425342528" ref="artisan"/>
+    <file name="master_a-master.css" crc="130191381" ref="index:artisan"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="4021225061" ref="index:artisan"/>
@@ -41,6 +41,6 @@
     <file name="u1177.png" crc="3799901095" ref="artisan"/>
     <file name="u1177-r.png" crc="4265845639" ref="artisan"/>
   </folder>
-  <file name="index.html" crc="185966238" mt="1528332263428" redirect="true"/>
-  <file name="artisan.html" crc="467233436" mt="1528332263428" redirect="true"/>
+  <file name="index.html" crc="466644731" mt="1528332491266" redirect="true"/>
+  <file name="artisan.html" crc="4157030444" mt="1528332491266" redirect="true"/>
 </manifest>

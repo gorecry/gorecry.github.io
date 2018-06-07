@@ -1,7 +1,7 @@
 .version.artisan /* version checker */
 {
-	color: #00001F;
-	background-color: #6FE3A2;
+	color: #000019;
+	background-color: #5A3640;
 }
 
 .html
@@ -30,20 +30,20 @@
 	padding-top: 33px;
 }
 
-#pu1525
+#pu1530
 {
 	width: 0.01px;
 	margin-left: -338px;
 }
 
-#u1525
+#u1530
 {
 	z-index: 2;
-	width: 532px;
+	width: 200px;
 	min-height: 100px;
 	margin-right: -10000px;
-	margin-top: 358px;
-	left: 607px;
+	margin-top: 331px;
+	left: 708px;
 }
 
 #slideshowu905

@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000E1;
-	background-color: #83B9E4;
+	color: #000019;
+	background-color: #808CA5;
 }
 
 .html
@@ -13,25 +13,22 @@
 #page
 {
 	z-index: 1;
-	width: 960px;
-	min-height: 519px;
+	width: 200px;
+	min-height: 154.5499999999999px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
 	background-color: transparent;
-	padding-bottom: 391px;
 	margin-left: auto;
 	margin-right: auto;
+	padding: 364px 390px 391.4500000000001px 370px;
 }
 
-#u1525
+#u1530
 {
 	z-index: 2;
-	width: 532px;
+	width: 200px;
 	min-height: 100px;
-	margin-right: -10000px;
-	margin-top: 391px;
-	left: 269px;
 }
 
 #u1147
@@ -40,10 +37,10 @@
 	height: 59px;
 	width: 59px;
 	vertical-align: top;
+	margin-left: 114px;
+	top: -4px;
+	margin-bottom: -4px;
 	position: relative;
-	margin-right: -10000px;
-	margin-top: 460px;
-	left: 484px;
 	background: url("../images/u1147.png") no-repeat 9px 9px;
 }
 
