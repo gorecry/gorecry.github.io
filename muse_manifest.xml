@@ -1,11 +1,13 @@
-<manifest alg="2" build="6" opt="false" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1528329577878">
+<manifest alg="2" build="6" opt="false" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1528332272984">
   <folder name="assets">
     <file name="borne-extinction.mp3" crc="4067664854" mt="1528319881000"/>
+    <file name="bass-business_6.mp3" crc="359356522" mt="1527872502000"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="426517801"/>
-    <file name="index.css" crc="3962647082" ref="index"/>
-    <file name="artisan.css" crc="3997975314" ref="artisan"/>
+    <file name="index.css" crc="3783506404" ref="index"/>
+    <file name="artisan.css" crc="527426466" ref="artisan"/>
+    <file name="master_a-master.css" crc="4099916061" ref="index:artisan"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="4021225061" ref="index:artisan"/>
@@ -34,11 +36,11 @@
     <file name="rubis4974.png" crc="4167211507" ref="artisan"/>
     <file name="u1392.png" crc="458825250" ref="artisan"/>
     <file name="u1392-r.png" crc="4210275265" ref="artisan"/>
-    <file name="u1347.png" crc="4008262088" ref="artisan"/>
-    <file name="u1347-r.png" crc="3995796346" ref="artisan"/>
+    <file name="u1347.png" crc="184972535" ref="artisan"/>
+    <file name="u1347-r.png" crc="4011942132" ref="artisan"/>
     <file name="u1177.png" crc="3799901095" ref="artisan"/>
     <file name="u1177-r.png" crc="4265845639" ref="artisan"/>
   </folder>
-  <file name="index.html" crc="116347445" mt="1528329577031" redirect="true"/>
-  <file name="artisan.html" crc="4248854051" mt="1528329577464" redirect="true"/>
+  <file name="index.html" crc="185966238" mt="1528332263428" redirect="true"/>
+  <file name="artisan.html" crc="467233436" mt="1528332263428" redirect="true"/>
 </manifest>
